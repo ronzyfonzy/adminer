@@ -18,3 +18,5 @@ lang.php - Update translations
 tests/katalon.html - Katalon Automation Recorder test suite
 
 If downloaded from Git then run: git submodule update --init
+
+Testing something out
